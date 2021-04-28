@@ -11,9 +11,7 @@ Subsequently from list of tracks we can add to favourite track. [Sending Body](.
 Selected tracks will be save in database [Database](./images/database.png). I recently finished the look of the website [Website](./images/spotify.png).
 The project is still under development.
 
-## ToDo
-* Connected front with backend using Angular
-* Extend functionality 
+## ToDo 
 * Add new function
 
 ## Technologies
@@ -22,5 +20,5 @@ Project is created with:
 * Spring Data
 * Spring Security
 * HTML CSS 
-* Angular (working on)
+* React
 	
